@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/millioner/static/js/main.fa017811.chunk.js",
+    "main.js.map": "/millioner/static/js/main.fa017811.chunk.js.map",
+    "runtime-main.js": "/millioner/static/js/runtime-main.140a0303.js",
+    "runtime-main.js.map": "/millioner/static/js/runtime-main.140a0303.js.map",
+    "static/js/2.f05bcb0e.chunk.js": "/millioner/static/js/2.f05bcb0e.chunk.js",
+    "static/js/2.f05bcb0e.chunk.js.map": "/millioner/static/js/2.f05bcb0e.chunk.js.map",
+    "index.html": "/millioner/index.html",
+    "static/js/2.f05bcb0e.chunk.js.LICENSE.txt": "/millioner/static/js/2.f05bcb0e.chunk.js.LICENSE.txt",
+    "static/media/Inter-VariableFont_slnt,wght.f958c681.ttf": "/millioner/static/media/Inter-VariableFont_slnt,wght.f958c681.ttf",
+    "static/media/finger-stars.7a1bbed7.svg": "/millioner/static/media/finger-stars.7a1bbed7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.140a0303.js",
+    "static/js/2.f05bcb0e.chunk.js",
+    "static/js/main.fa017811.chunk.js"
+  ]
+}
